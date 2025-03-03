@@ -1,4 +1,4 @@
-# NAPB_wheat_tauschii_introgression
+# McFaden_wheat_tauschii_introgression
 
 
 Ae tauschii Introgressions in Varieties Overley and TAM112
